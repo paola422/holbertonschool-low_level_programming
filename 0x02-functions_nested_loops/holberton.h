@@ -28,3 +28,9 @@ void print_alphabet_x10(void);
 * Return: 0 or 1
 */
 int _islower(int c);
+/**
+* _isalpha - entry point
+* @c: Character
+* Return: 1 or 0
+*/
+int _isalpha(int c);
