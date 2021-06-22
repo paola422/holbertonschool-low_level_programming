@@ -2,7 +2,7 @@
 /**
 * print_alphabet - entry point
 *
-* Description: Prints the alphabet in lowercase
+* Description: Prints the alphabet with _putchar
 *
 * Return: void
 */
