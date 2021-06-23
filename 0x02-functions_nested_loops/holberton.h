@@ -47,3 +47,9 @@ int print_sign(int n);
 * Return: 0
 */
 int _abs(int n);
+/**
+* print_last_digit - Print the last number
+* @last: digit
+* Return: number
+*/
+int print_last_digit(int last);
