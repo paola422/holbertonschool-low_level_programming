@@ -48,8 +48,15 @@ int print_sign(int n);
 */
 int _abs(int n);
 /**
-* print_last_digit - Print the last number
+* print_last_digit - Print last digit of integer input
 * @last: digit
 * Return: number
 */
 int print_last_digit(int last);
+/**
+* jack_bauer - Prints every minute of day
+*
+* Description: Minute starting from 00:00 to 23:59
+* Return: void
+*/
+void jack_bauer(void);
