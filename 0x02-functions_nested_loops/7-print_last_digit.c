@@ -1,6 +1,6 @@
 #include "holberton.h"
 /**
-* print_last-digit - Print last number
+* print_last_digit - Function than prints last digit of a number
 * @last: digit
 * Return: number
 */
