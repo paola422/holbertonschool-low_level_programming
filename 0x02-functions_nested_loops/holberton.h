@@ -40,3 +40,10 @@ int _isalpha(int c);
 * Return: 1 0 or -1
 */
 int print_sign(int n);
+/**
+* _abs - entry point
+* @n: int
+* int - _abs
+* Return: 0
+*/
+int _abs(int n);
