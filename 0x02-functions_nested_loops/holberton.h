@@ -60,3 +60,10 @@ int print_last_digit(int last);
 * Return: void
 */
 void jack_bauer(void);
+/**
+*include "holberton.h"
+* times_table - Prints the 9 times table, starting with 0
+*
+* Return: void
+*/
+void times_table(void);
