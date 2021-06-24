@@ -1,6 +1,5 @@
 #include "holberton.h"
 
-
 /**
 * largest_number - returns the largest of 3 numbers
 * @a: first integer
@@ -25,7 +24,7 @@ largest = a;
 
 }
 
-else if (b > a && a > c)
+else if (b > a && b > c)
 
 {
 
