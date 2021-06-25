@@ -38,4 +38,7 @@ void print_square(int size);
 * Task #10
 */
 void print_triangle(int size);
-
+/**
+*
+*/
+int _putchar(char);
