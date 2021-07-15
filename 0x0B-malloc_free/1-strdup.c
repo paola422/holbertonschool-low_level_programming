@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
-* _strdup - function that returns a pointer to a newly allocated space in memory
+* _strdup - function pointer to a newly allocated space in memory
 * @str: string.
 * Return: pointer to the duplicated string. It returns NULL
 */
